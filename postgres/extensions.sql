@@ -9,3 +9,12 @@ create extension "uuid-ossp";
 
 -- how do we uninstall something?
 DROP EXTENSION "uuid-ossp";
+
+
+
+------------ My typical extensions -------
+create extension adminpack;  -- this helps out pgadmin
+create extension pg_stat_statements;  --you need to update your startup_shared_libs for this to work.
+create extension uuid-ossp;  -- guid time
+create extension pg_buffercache;
+create extension pg_freespacemap;
