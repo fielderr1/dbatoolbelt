@@ -16,7 +16,8 @@ These 3 are a mainstay and will be staying in the root.  Use the sub folders to 
 
 Postgres
 ---
-In progress
+Fun way to learn sql - http://pgexercises.com/questions/basic/
+
 
 
 Redis
