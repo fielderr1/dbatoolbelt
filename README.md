@@ -8,7 +8,7 @@ SQL Server
 ----
 The 3 main ones I use - 
 
- * [whoisactive](http://tinyurl.com/WhoIsActiveDonate)
+ * [whoisactive](http://sqlblog.com/files/folders/beta/entry42453.aspx)
  * [brents blitz](http://www.BrentOzar.com/go/blitz)
  * [glenns diagnostic](http://sqlserverperformance.wordpress.com/)
  
